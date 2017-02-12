@@ -1,5 +1,5 @@
 
-# Systems Programming in Lunix
+# Systems Programming in Linux
 ## System calls
 
  1. Kernel and user space
